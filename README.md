@@ -1,12 +1,15 @@
 # ESP-MECCHA-HAMELEON
 ESP MECCHA HAMELEON V2.1
-
-
-<img width="1672" height="941" alt="ChatGPT Image Jun 27, 2026, 06_35_31 PM" src="https://github.com/user-attachments/assets/452f1bcb-44a1-49dd-bda8-cc71e4e95f19" />
-
 # 🌀 Meccha Chameleon — Enhanced Visual Pack 2026
+**🌀 Meccha Chameleon Visual Pack** — Visibility enhancement tool for Meccha Chameleon game.
 
+Smart overlay system designed to improve visual clarity and situational awareness during the creative camouflage hide-and-seek experience.
 ---
+<img width="1672" height="941" alt="ChatGPT Image Jun 27, 2026, 06_35_31 PM" src="https://github.com/user-attachments/assets/452f1bcb-44a1-49dd-bda8-cc71e4e95f19" />
+---
+
+
+
 
 **🌀 Meccha Chameleon Visual Pack** — Visibility enhancement tool for Meccha Chameleon game.
 
@@ -76,7 +79,7 @@ Smart overlay system designed to improve visual clarity and situational awarenes
 
 ---
 
-## 🏷️ Tags
+### 🏷️ Tags
 
 MECCHA CHAMELEON, VISUAL TOOL, GAMING UTILITY, WINDOWS APPLICATION, ENHANCEMENT PACK
 
